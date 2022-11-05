@@ -1,1 +1,36 @@
 # AulaHTML2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro HTML</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        h1{
+            color:blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cabeçalho Principal</h1>
+    <h2>Subtítulo de Impacto</h2>
+
+    <p style ="color: chartreuse;"p >Parágrafo um</p>
+    <img src="https://www.google.com.br/logos/google.jpg" alt="image">
+    <p>Parágrafo dois com <a href="https://example.com">hyperlink</h1></a></p>
+
+    <br>
+    
+    <div class="classe1">Div1</div>
+    <div class="classe1">Div2</div>
+    <div class="classe1">Div3</div>
+    <div id="id1">Div4</div>
+    
+
+
+
+    
+</body>
+</html>
